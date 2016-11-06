@@ -1,0 +1,94 @@
+---
+layout: post
+title:  "Introduction"
+date:   2016-11-06 11:11:11 +0100
+
+---
+
+This is a blog about my Github experiments.<br>
+This aim to explain the structure of repositories and how to navigate between them.
+
+
+<br/>
+**Unreal Engine**
+
+Samples and drafts about code from udemy course ["The Unreal Engine Developer Course"](https://www.udemy.com/unrealcourse/learn/v4/)
+
+
+* [Building Room](https://github.com/NelsonBilber/ue4.udemy.unrealcourse.buildingroom) <br/> A simple First Person game to learn level building, lighting, Unreal Editor, C++ game logic, basic Blueprint and more
+
+* [Battle Tank](https://github.com/NelsonBilber/ue4.udemy.unrealcourse.battletank) <br/> An open-world head-to-head tank fight with simple AI, terrain, and advanced control system in Unreal 4
+
+* [Testing Grounds](https://github.com/NelsonBilber/ue4.udemy.unrealcourse.testinggrounds) <br/> A Hunger-Games inspired FPS with large outdoor terrains. Advanced AI, basic networking, pickups, skeletal meshes, checkpoints and more
+
+<br/>
+**Computer Graphics**
+
+Explore computer graphics API's
+
+
+* DirectX <br/> ... in progress ...
+
+<br/>
+**C++**
+
+It's a hard language to learn so it requires a lot of constant practice
+
+* [Cast](https://github.com/NelsonBilber/cpp.cast) <br/> C++ cast <>() examples 
+
+* [Containers](https://github.com/NelsonBilber/cpp.containers) <br/> C++ Template Metaprogramming 
+ 
+* [Loki](https://github.com/NelsonBilber/cpp.loki) <br/> Source Code from great book: "Modern C++ Design: Generic Programming and Design Patterns Applied 
+
+* [Metaprogramming](https://github.com/NelsonBilber/cpp.metaprogramming)<br/> C++ Template Metaprogramming 
+
+* [Modern C++](https://github.com/NelsonBilber/cpp.moderncpp) <br/> Nice walkthrough for C++, C++11/14/17, ..
+
+* [Object Oriented Programming](https://github.com/NelsonBilber/cpp.oop) <br>
+
+* [RAII](https://github.com/NelsonBilber/cpp.RAII) <br/>C++ Resource acquisition is initialization (RAII) 
+
+* [Smart Pointers](https://github.com/NelsonBilber/cpp.smartpointers)<br/> Explore C++11 smartpointers 
+
+* [STL](https://github.com/NelsonBilber/cpp.stl) <br/> C++ Standard Template Library (STL) 
+
+<br/>
+**Design patterns**
+
+Techniques for structure the code
+
+* **Gof**
+
+* **MVVM**
+ 
+<br/> 
+**Programming languages**
+
+There's some space for other programming languages
+
+* **C#**
+
+* **Java**
+
+<br/>
+**Data**
+
+Some experimentations about query data
+
+* **R** 
+
+* **SQL**
+
+<br/>
+
+**Old resources**
+
+These repositories are here only for historical reason. Some of the above repositories derived from.
+ 
+* **Computer-graphics**
+
+* **Design Patterns**
+
+* **Qt**
+
+* **UeLabs**
