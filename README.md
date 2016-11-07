@@ -1,24 +1,44 @@
-# Libretto - Jekyll Theme
+Solar Theme for Jekyll
+======================
 
-Libretto is a responsive one-column Jekyll theme with classic styling and careful typographic details.
+A stylish theme for [Jekyll](http://jekyllrb.com/) blogs, based on the [Solarized](http://ethanschoonover.com/solarized) color palette.
 
-Based on the [Libretto Wordpress theme](https://wordpress.org/themes/libretto/).
+![Screenshot](http://i.imgur.com/UnnRhkt.png)
 
-## Install and Test
 
-1. Download or clone the repo
-  - `git clone git@github.com:ferrolho/jekyll-theme-libretto.git`
-2. Enter the folder
-  - `cd jekyll-theme-libretto/`
-3. Start Jekyll server
-  - `jekyll serve --watch`
-4. Access via
-  - http://127.0.0.1:4000/jekyll-theme-libretto/
+Features
+-------
 
-## Demo
+* **Two color schemes** — One for Solarized Dark and one for Solarized Light. Just swap the reference to the `colors-dark.css` file with `colors-light.css` if you don't like light-on-dark.
+* **Linkblog support** — Solar will turn your post title into an external link if you add `external-url: http://example.org` to a post's YAML front matter.
+* **Responsive Design** — Solarized adapts to fit any screen size.
 
-- https://ferrolho.github.io/jekyll-theme-libretto/
 
-## Preview
+Installation
+--------------
 
-![Theme preview](http://i.imgur.com/2ZCmoKo.png)
+There are two ways to use Solar. You can either clone-and-go, copying the repository and tweaking the contents to taste, or you can cherry-pick the files you want and integrate them into an existing Jekyll instance. 
+
+If you're starting a new blog, you want to clone-and-go. Just `git clone https://github.com/redwallhp/solar-theme-jekyll.git`, make any changes you want to the template, pages or `_config.yml` and start blogging with Jekyll. Easy.
+
+If you're wanting to replace the theme of an existing Jekyll blog, either option should work. If you want to replace files individually, the files and directories you want to make sure to copy are:
+
+1. `_layouts`
+2. `archives`
+3. `assets`
+4. `feed.xml`
+5. `index.xml`
+
+You'll also want to compare Solar's `_config.yml` with your own, making any appropriate changes.
+
+
+Demo
+-------
+
+You can see a demo of Solar [right here on GitHub Pages.](http://mattvh.github.io/solar-theme-jekyll/)
+
+
+License
+---------
+
+GPLv2 or higher
