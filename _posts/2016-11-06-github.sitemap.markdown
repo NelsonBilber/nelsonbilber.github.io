@@ -32,7 +32,7 @@ Samples and drafts about code from udemy course ["The Unreal Engine Developer Co
 Explore computer graphics API's
 
 
-* DirectX <br/> ... in progress ...
+* [DirectX](https://github.com/NelsonBilber/cg.directx) <br/> ... in progress ...
 
  
 
@@ -68,9 +68,9 @@ It's a hard language to learn so it requires a lot of constant practice
 
 Techniques for structure the code
 
-* **Gof**
+* [Gof](https://github.com/NelsonBilber/design.patterns.Gof)
 
-* **MVVM**
+* [MVVM](https://github.com/NelsonBilber/design.patterns.MVVM)
 
 
 
@@ -81,9 +81,9 @@ Techniques for structure the code
 
 There's some space for other programming languages
 
-* **C#**
+* [C#](https://github.com/NelsonBilber/programming-languages)
 
-* **Java**
+* [Java](https://github.com/NelsonBilber/programming-languages)
 
 ---
 
@@ -91,9 +91,9 @@ There's some space for other programming languages
 
 Some experimentations about query data
 
-* **R** 
+* [R](https://github.com/NelsonBilber/Data) 
 
-* **SQL**
+* [SQL](https://github.com/NelsonBilber/Data)
 
 
 **Old resources**
@@ -103,10 +103,10 @@ Some experimentations about query data
 
 These repositories are here only for historical reason. Some of the above repositories derived from.
  
-* **Computer-graphics**
+* [Computer-graphics](https://github.com/NelsonBilber/computer-graphics)
 
-* **Design Patterns**
+* [Design Patterns](https://github.com/NelsonBilber/Design-Patterns)
 
-* **Qt**
+* [Qt](https://github.com/NelsonBilber/Qt)
 
-* **UeLabs**
+* [UeLabs](https://github.com/NelsonBilber/UeLabs)
