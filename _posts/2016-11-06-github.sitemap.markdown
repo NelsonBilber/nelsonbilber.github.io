@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "GitHub - sitemap"
+title:  "Repositories sitemap"
 date:   2016-11-06 11:11:11 +0100
-
+comments: true
+external-url:
+categories: github
 ---
+	
 
-This is a blog about my Github experiments.<br>
-This aim to explain the structure of repositories and how to navigate between them.
-
-
-<br/>
 **Unreal Engine**
 
 --- 

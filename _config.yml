@@ -1,8 +1,21 @@
-name: Fun on void
-url: http://example.org
-description: A blog about my GitHub repositories
-permalink: /:year/:month/:day/:title/
-paginate: 10
+# Site settings
+title: "Fun on void ..."
+author: "Nelson Bilber Rodrigues"
+description: "This is a blog about my GitHub struture, and some C++ and Computer Graphics"  
 
-gems: [jekyll-paginate]
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+keywords: "Software Engineering, Programming, Machine-Learning, Artificial Intelligence,C++, Unreal Engine, Direct X"
+
+biography: Love science in general and transform coffee in code
+
+colophon: "This Jekyll theme was created by <a href='https://github.com/hugoferreira/papyrus-theme'>Hugo Sereno Ferreira</a>.<br>Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/'>Creative Commons (BY-NC-SA)</a> unless otherwise noted.<br>This site is hosted at <a href='https://pages.github.com/'>Github Pages</a> and created with <a href='http://jekyllrb.com/'>Jekyll</a>."
+
+baseurl: ""
+url: "http://nelsonbilber.github.io"
+
+twitter_username: NelsonBilber
+github_username: NelsonBilber
+linkedin_username: nelsonrodrigues84 
+
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:year/:month/:day/:title/
