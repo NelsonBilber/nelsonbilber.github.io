@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "SQL, R"
+date:   2016-11-07 07:11:11 +0100
+comments: true
+external-url:
+categories: data
+---
+	
+
+**Data**
+
+Some experimentations about query data
+
+* [R](https://github.com/NelsonBilber/Data) 
+
+* [SQL](https://github.com/NelsonBilber/Data)
+

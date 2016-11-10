@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Unreal Engine 4"
+date:   2016-11-10 11:11:11 +0100
+comments: true
+external-url:
+categories: Graphics
+---
+	
+
+**Unreal Engine**
+
+--- 
+
+Samples and drafts about code from udemy course ["The Unreal Engine Developer Course"](https://www.udemy.com/unrealcourse/learn/v4/)
+
+
+* [Building Room](https://github.com/NelsonBilber/ue4.udemy.unrealcourse.buildingroom) <br/> A simple First Person game to learn level building, lighting, Unreal Editor, C++ game logic, basic Blueprint and more
+
+* [Battle Tank](https://github.com/NelsonBilber/ue4.udemy.unrealcourse.battletank) <br/> An open-world head-to-head tank fight with simple AI, terrain, and advanced control system in Unreal 4
+
+* [Testing Grounds](https://github.com/NelsonBilber/ue4.udemy.unrealcourse.testinggrounds) <br/> A Hunger-Games inspired FPS with large outdoor terrains. Advanced AI, basic networking, pickups, skeletal meshes, checkpoints and more

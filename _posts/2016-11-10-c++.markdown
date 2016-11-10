@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "C++"
+date:   2016-11-10 10:11:11 +0100
+comments: true
+external-url:
+categories: Languages
+---
+	
+
+ 
+
+**C++**
+
+--- 
+
+It's a hard language to learn so it requires a lot of constant practice
+
+* [Cast](https://github.com/NelsonBilber/cpp.cast) <br/> C++ cast <>() examples 
+
+* [Containers](https://github.com/NelsonBilber/cpp.containers) <br/> C++ Template Metaprogramming 
+ 
+* [Loki](https://github.com/NelsonBilber/cpp.loki) <br/> Source Code from great book: "Modern C++ Design: Generic Programming and Design Patterns Applied 
+
+* [Metaprogramming](https://github.com/NelsonBilber/cpp.metaprogramming)<br/> C++ Template Metaprogramming 
+
+* [Modern C++](https://github.com/NelsonBilber/cpp.moderncpp) <br/> Nice walkthrough for C++, C++11/14/17, ..
+
+* [Object Oriented Programming](https://github.com/NelsonBilber/cpp.oop) <br>
+
+* [RAII](https://github.com/NelsonBilber/cpp.RAII) <br/>C++ Resource acquisition is initialization (RAII) 
+
+* [Smart Pointers](https://github.com/NelsonBilber/cpp.smartpointers)<br/> Explore C++11 smartpointers 
+
+* [STL](https://github.com/NelsonBilber/cpp.stl) <br/> C++ Standard Template Library (STL) 
+

@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "DirectX"
+date:   2016-11-10 10:23:11 +0100
+comments: true
+external-url:
+categories: Graphics
+---
+	
+**DirectX**
+
+--- 
+
+
+Explore computer graphics API's
+
+
+* [DirectX](https://github.com/NelsonBilber/cg.directx) <br/> ... in progress ...
+
