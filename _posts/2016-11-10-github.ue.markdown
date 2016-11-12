@@ -20,3 +20,14 @@ Samples and drafts about code from udemy course ["The Unreal Engine Developer Co
 * [Battle Tank](https://github.com/NelsonBilber/ue4.udemy.unrealcourse.battletank) <br/> An open-world head-to-head tank fight with simple AI, terrain, and advanced control system in Unreal 4
 
 * [Testing Grounds](https://github.com/NelsonBilber/ue4.udemy.unrealcourse.testinggrounds) <br/> A Hunger-Games inspired FPS with large outdoor terrains. Advanced AI, basic networking, pickups, skeletal meshes, checkpoints and more
+
+---
+
+##### Blueprints
+
+* [Basic Operation with Blueprints](https://github.com/NelsonBilber/ue4.bp.basic.operations) 
+<br/>
+Add HUD widget to viewport, Add two numbers, cast strings, ...
+
+
+
