@@ -22,8 +22,9 @@ It's a hard language to learn so it requires a lot of constant practice
 
 * [Loki](https://github.com/NelsonBilber/cpp.loki) <br/> Source Code from great book: "Modern C++ Design: Generic Programming and Design Patterns Applied
 
-* [Metaprogramming](https://github.com/NelsonBilber/cpp.metaprogramming)<br/> C++ Template Metaprogramming
-	* [Variadic Templates](https://github.com/NelsonBilber/cpp.variadic.templates) </br> Variadic Templates
+* [Template / Metaprogramming](https://github.com/NelsonBilber/cpp.metaprogramming) <br/>
+ 	[Variadic Templates](https://github.com/NelsonBilber/cpp.variadic.templates)
+
 
 * [Modern C++](https://github.com/NelsonBilber/cpp.moderncpp) <br/> Nice walkthrough for C++, C++11/14/17, ..
 
