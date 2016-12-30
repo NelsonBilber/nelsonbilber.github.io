@@ -6,14 +6,17 @@ comments: true
 external-url:
 categories: Graphics
 ---
-	
+
 **DirectX**
 
---- 
+---
 
 
 Explore computer graphics API's
 
 
-* [DirectX](https://github.com/NelsonBilber/cg.directx) <br/> ... in progress ...
-
+* [DirectX](https://github.com/NelsonBilber/cg.directx) <br/>
+	[Base Triangle](https://github.com/NelsonBilber/cg.directx)
+	[Shaders (HLSL)](https://github.com/NelsonBilber/cg.directx)
+	[3D Transformations](https://github.com/NelsonBilber/cpp.variadic.templates) <br/>
+... in progress ...
