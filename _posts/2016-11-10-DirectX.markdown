@@ -18,5 +18,5 @@ Explore computer graphics API's
 * [DirectX](https://github.com/NelsonBilber/cg.directx) <br/>
 	[Base Triangle](https://github.com/NelsonBilber/cg.directx) <br/>
 	[Shaders (HLSL)](https://github.com/NelsonBilber/cg.directx) <br/>
-	[3D Transformations](https://github.com/NelsonBilber/cpp.variadic.templates) <br/>
+	[3D Transformations](https://github.com/NelsonBilber/cg.directx) <br/>
 ... in progress ...
