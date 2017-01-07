@@ -16,6 +16,9 @@ categories: Languages
 
 It's a hard language to learn so it requires a lot of constant practice
 
+
+* [Learn Advanced C++ Programming Course](https://github.com/NelsonBilber/cpp.udemy.advancedcpp) <br/> Udemy Course "Learn Advanced C++ Programming Course" an exclente course by John Purcell 
+
 * [Cast](https://github.com/NelsonBilber/cpp.cast) <br/> C++ cast <>() examples
 
 * [Containers](https://github.com/NelsonBilber/cpp.containers) <br/> C++ Template Metaprogramming
