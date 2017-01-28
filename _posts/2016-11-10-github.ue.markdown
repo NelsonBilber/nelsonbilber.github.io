@@ -29,5 +29,14 @@ Samples and drafts about code from udemy course ["The Unreal Engine Developer Co
 <br/>
 Add HUD widget to viewport, Add two numbers, cast strings, ...
 
+---
+
+##### Templates
+
+* [Basic *.upack file](https://github.com/NelsonBilber/ue4.basictemplate) 
+<br/> This is a *.upack file which can be import to your unreal project
+
+* [Play with Ue4 ](https://github.com/NelsonBilber/ue4.playwithue4) 
+<br/> This repository aim to show some operations that can be done with unreal engine
 
 
