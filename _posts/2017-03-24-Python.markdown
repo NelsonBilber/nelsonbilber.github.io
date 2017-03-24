@@ -14,3 +14,4 @@ categories: Languages
 Study python
 
 * [Python the hard way](https://github.com/NelsonBilber/py.thehardway)
+* [Python with OpenGL](https://github.com/NelsonBilber/py.opengl)
