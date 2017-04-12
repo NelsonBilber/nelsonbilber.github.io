@@ -30,6 +30,9 @@ It's a hard language to learn so it requires a lot of constant practice
 
 
 * [Modern C++](https://github.com/NelsonBilber/cpp.moderncpp) <br/> Nice walkthrough for C++, C++11/14/17, ..
+<br/>
+ 	[Lambda](https://github.com/NelsonBilber/cpp.lambdas)
+
 
 * [Object Oriented Programming](https://github.com/NelsonBilber/cpp.oop) <br>
 
