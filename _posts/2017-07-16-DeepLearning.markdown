@@ -12,9 +12,7 @@ categories: Machine_Intelligence
 ---
 
 
-Explore some examples 
-
 
 * [Simple Regression using tensorflow](https://github.com/NelsonBilber/dp.tensorflow.regression) <br/>
-* [Image classification using CIFAR10 with 2-Layer Fully Connected Neural Network ](https://github.com/NelsonBilber/dp.cifar10.2-LayerFullyConnectedNeuralNetwork) <br/>
-* [ Image classification using CIFAR10 with Convolutional Networks ](https://github.com/NelsonBilber/dp.cifar10.using.CNN-s) <br/>	
+* [Image recognition using CIFAR10 with 2-Layer Fully Connected Neural Network ](https://github.com/NelsonBilber/dp.cifar10.2-LayerFullyConnectedNeuralNetwork) <br/>
+* [ Image recognition using CIFAR10 with Convolutional Networks ](https://github.com/NelsonBilber/dp.cifar10.using.CNN-s) <br/>	
