@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Game Physics"
+date:   2017-03-05 10:23:11 +0100
+comments: true
+external-url:
+categories: Graphics
+---
+
+**Game Physics**
+
+---
+
+Code from Udemy Course **" Game Physics - Introduction Gravitation and Rotation in Unity "**
+
+Git Hub repository link [Game Physics](https://github.com/NelsonBilber/udemy.gamephysics)
