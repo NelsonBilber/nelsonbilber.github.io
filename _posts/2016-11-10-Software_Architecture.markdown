@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "GoF, MVVM"
+title:  "Software Architecture"
 date:   2016-11-10 11:11:11 +0100
 comments: true
 external-url:
-categories: Patterns
+categories: Software_Architecture
 ---
 	
 
@@ -13,9 +13,7 @@ categories: Patterns
 
 ---
 
-Techniques for structure the code
-
-* [Gof](https://github.com/NelsonBilber/design.patterns.Gof)
+* [Gof using C++](https://github.com/NelsonBilber/design.patterns.Gof)
 
 * [MVVM](https://github.com/NelsonBilber/design.patterns.MVVM)
 

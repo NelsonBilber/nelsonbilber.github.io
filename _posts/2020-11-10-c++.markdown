@@ -7,9 +7,6 @@ external-url:
 categories: Languages
 ---
 
-
-
-
 **C++**
 
 ---
@@ -19,7 +16,8 @@ It's a hard language to learn so it requires a lot of constant practice
 
 * [Learn Advanced C++ Programming Course](https://github.com/NelsonBilber/cpp.udemy.advancedcpp) <br/> Udemy Course "Learn Advanced C++ Programming Course" an exclente course by John Purcell 
 
-* [Object Oriented Programming](https://github.com/NelsonBilber/cpp.oop) <br>
+* [Template / Metaprogramming](https://github.com/NelsonBilber/cpp.metaprogramming) <br/>
+ 	[Variadic Templates](https://github.com/NelsonBilber/cpp.variadic.templates)
 
 * [Functional Programming](https://github.com/NelsonBilber/cpp.functional.programming) <br>
 
@@ -27,9 +25,7 @@ It's a hard language to learn so it requires a lot of constant practice
  	[Concepts](https://github.com/NelsonBilber/cpp.concepts) <br/>
  	[Monads](https://github.com/NelsonBilber/cpp.monads) <br/>
 
-* [Template / Metaprogramming](https://github.com/NelsonBilber/cpp.metaprogramming) <br/>
- 	[Variadic Templates](https://github.com/NelsonBilber/cpp.variadic.templates)
-
+* [Object Oriented Programming](https://github.com/NelsonBilber/cpp.oop) <br>
 
 * [RAII](https://github.com/NelsonBilber/cpp.RAII) <br/>C++ Resource acquisition is initialization (RAII)
 
