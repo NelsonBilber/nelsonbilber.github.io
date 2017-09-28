@@ -17,13 +17,29 @@ It's a hard language to learn so it requires a lot of constant practice
 * [Learn Advanced C++ Programming Course](https://github.com/NelsonBilber/cpp.udemy.advancedcpp) <br/> Udemy Course "Learn Advanced C++ Programming Course" an exclente course by John Purcell 
 
 * [Template / Metaprogramming](https://github.com/NelsonBilber/cpp.metaprogramming) <br/>
- 	[Variadic Templates](https://github.com/NelsonBilber/cpp.variadic.templates)
+
+	**Functions**
+	
+	[1. Arguments Deduction](https://github.com/NelsonBilber/cpp.templates.functions.1.arguments.deduction)
+	
+	[2. Explicit Specialization](https://github.com/NelsonBilber/cpp.templates.functions.2.explicit.specialization)
+	
+	[3. Non-Type Arguments](https://github.com/NelsonBilber/cpp.templates.functions.3.non-type.arguments)
+	
+	[4. Variadic Templates](https://github.com/NelsonBilber/cpp.templates.functions.4.variadic.templates)
+	
+	**Classes** 	
+	
+	....
+	
+ 	
 
 * [Functional Programming](https://github.com/NelsonBilber/cpp.functional.programming) <br>
 
 * [Modern C++](https://github.com/NelsonBilber/cpp.moderncpp)  ... walkthrough for C++, C++11/14/17/20, ... <br/>  	[Lambda](https://github.com/NelsonBilber/cpp.lambdas) <br/>
  	[Concepts](https://github.com/NelsonBilber/cpp.concepts) <br/>
  	[Monads](https://github.com/NelsonBilber/cpp.monads) <br/>
+ 	[Variadic Templates](https://github.com/NelsonBilber/cpp.variadic.templates)<br/>
 
 * [Object Oriented Programming](https://github.com/NelsonBilber/cpp.oop) <br>
 
