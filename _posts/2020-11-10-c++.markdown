@@ -30,7 +30,14 @@ It's a hard language to learn so it requires a lot of constant practice
 	
 	**Classes** 	
 	
-	....
+	
+	[1. Arguments Deduction](https://github.com/NelsonBilber/cpp.templates.class1.basic)
+	
+	[2. Explicit Specialization](https://github.com/NelsonBilber/cpp.templates.class2.explicit.specialization)
+	
+	[3. Partical Specialization](https://github.com/NelsonBilber/cpp.templates.class3.partial.specialization)
+	
+	[4. Alias](https://github.com/NelsonBilber/cpp.templates.class4.typealias)
 	
  	
 
