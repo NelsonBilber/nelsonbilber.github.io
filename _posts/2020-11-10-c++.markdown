@@ -20,41 +20,25 @@ It's a hard language to learn so it requires a lot of constant practice
 
 	**Functions**
 	
-	[1. Arguments Deduction](https://github.com/NelsonBilber/cpp.templates.functions.1.arguments.deduction)
-	
-	[2. Explicit Specialization](https://github.com/NelsonBilber/cpp.templates.functions.2.explicit.specialization)
-	
-	[3. Non-Type Arguments](https://github.com/NelsonBilber/cpp.templates.functions.3.non-type.arguments)
-	
-	[4. Variadic Templates](https://github.com/NelsonBilber/cpp.templates.functions.4.variadic.templates)
+	[1. Arguments Deduction](https://github.com/NelsonBilber/cpp.templates.functions.1.arguments.deduction) [2. Explicit Specialization](https://github.com/NelsonBilber/cpp.templates.functions.2.explicit.specialization) [3. Non-Type Arguments](https://github.com/NelsonBilber/cpp.templates.functions.3.non-type.arguments) [4. Variadic Templates](https://github.com/NelsonBilber/cpp.templates.functions.4.variadic.templates)
 	
 	**Classes** 	
 	
 	
-	[1. Basics](https://github.com/NelsonBilber/cpp.templates.class1.basic)
-	
-	[2. Explicit Specialization](https://github.com/NelsonBilber/cpp.templates.class2.explicit.specialization)
-	
-	[3. Partical Specialization](https://github.com/NelsonBilber/cpp.templates.class3.partial.specialization)
-	
-	[4. Alias](https://github.com/NelsonBilber/cpp.templates.class4.typealias)
+	[1. Basics](https://github.com/NelsonBilber/cpp.templates.class1.basic) [2. Explicit Specialization](https://github.com/NelsonBilber/cpp.templates.class2.explicit.specialization) [3. Partical Specialization](https://github.com/NelsonBilber/cpp.templates.class3.partial.specialization) [4. Alias](https://github.com/NelsonBilber/cpp.templates.class4.typealias)
 	
  	
+<br/>
 
 * [Functional Programming](https://github.com/NelsonBilber/cpp.functional.programming) 
 
+<br/>
 
 * [Modern C++](https://github.com/NelsonBilber/cpp.moderncpp) 
 
-
-	[1. Lambda](https://github.com/NelsonBilber/cpp.lambdas).
+	[1. Lambda](https://github.com/NelsonBilber/cpp.lambdas) [2. Concepts](https://github.com/NelsonBilber/cpp.concepts) [3. Monads](https://github.com/NelsonBilber/cpp.monads) [4. Variadic Templates](https://github.com/NelsonBilber/cpp.variadic.templates).
  	 	
- 	[2. Concepts](https://github.com/NelsonBilber/cpp.concepts). 
- 	 	
- 	[3. Monads](https://github.com/NelsonBilber/cpp.monads).
- 	 	
- 	[4. Variadic Templates](https://github.com/NelsonBilber/cpp.variadic.templates).
- 	 	
+<br/>
 
 * [Object Oriented Programming](https://github.com/NelsonBilber/cpp.oop) <br>
 
