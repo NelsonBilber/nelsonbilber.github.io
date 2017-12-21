@@ -45,6 +45,9 @@ It's a hard language to learn so it requires a lot of constant practice
 * [RAII](https://github.com/NelsonBilber/cpp.RAII) <br/>C++ Resource acquisition is initialization (RAII)
 
 * [STL](https://github.com/NelsonBilber/cpp.stl) <br/> C++ Standard Template Library (STL)
+	
+	[Allocators](https://github.com/NelsonBilber/cpp.allocators.custom)
+
 
 * [Containers](https://github.com/NelsonBilber/cpp.containers) <br/> C++ Template Metaprogramming
 
