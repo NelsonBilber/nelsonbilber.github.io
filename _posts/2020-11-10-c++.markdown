@@ -36,7 +36,7 @@ It's a hard language to learn so it requires a lot of constant practice
 
 * [Modern C++](https://github.com/NelsonBilber/cpp.moderncpp) 
 
-	[1. Lambda](https://github.com/NelsonBilber/cpp.lambdas) [2. Concepts](https://github.com/NelsonBilber/cpp.concepts) [3. Monads](https://github.com/NelsonBilber/cpp.monads) [4. Variadic Templates](https://github.com/NelsonBilber/cpp.variadic.templates).
+	[1. Lambda](https://github.com/NelsonBilber/cpp.lambdas) [2. Concepts](https://github.com/NelsonBilber/cpp.concepts) [3. Monads](https://github.com/NelsonBilber/cpp.monads) [4. Variadic Templates](https://github.com/NelsonBilber/cpp.variadic.templates) [5. Move semantics](https://github.com/NelsonBilber/cpp.movesemantics)
  	 	
 <br/>
 
