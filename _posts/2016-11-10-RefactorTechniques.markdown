@@ -6,12 +6,12 @@ comments: true
 external-url:
 categories: Software_Architecture
 ---
-	
 
+**Game Physics**
 
+--- 
 
-
-* [Refactor advices](https://github.com/NelsonBilber/software-design/blob/master/refactor.org)
+* [Clean code](https://github.com/NelsonBilber/software-design/blob/master/refactor.org)
 
 * [S.O.L.I.D](https://github.com/NelsonBilber/software-design/blob/master/solid.org)
 
