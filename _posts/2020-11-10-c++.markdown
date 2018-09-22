@@ -30,8 +30,6 @@ It's a hard language to learn so it requires a lot of constant practice
 
 ----------------
 
-Programming paradigms
-
 * [Functional Programming](https://github.com/NelsonBilber/cpp.functional.programming) 
 
 * [Object Oriented Programming](https://github.com/NelsonBilber/cpp.oop)
@@ -44,13 +42,15 @@ Programming paradigms
  	 	
 ----------------- 
 
-* [C++ Resource acquisition is initialization (RAII)](https://github.com/NelsonBilber/cpp.RAII) 
-
 * [C++ Standard Template Library (STL)](https://github.com/NelsonBilber/cpp.stl)
-	
-* [Allocators](https://github.com/NelsonBilber/cpp.allocators.custom)
 
 * [STL Containers and Iterators](https://github.com/NelsonBilber/cpp-overview/blob/master/docs/containers.and.iterators.org)
+
+---------------- 
+
+* [C++ Resource acquisition is initialization (RAII)](https://github.com/NelsonBilber/cpp.RAII) 
+	
+* [Allocators](https://github.com/NelsonBilber/cpp.allocators.custom)
 
 * [Cast](https://github.com/NelsonBilber/cpp.cast)
 
