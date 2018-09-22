@@ -11,8 +11,11 @@ categories: Languages
 
 ---
 
-It's a hard language to learn so it requires a lot of constant practice
+It's a hard language to learn so it requires a lot of constant practice. So i'm constantly update a github repository dedicated to C++.
 
+[cpp-overview](https://github.com/NelsonBilber/cpp-overview)
+
+-----------------
 
 * [Learn Advanced C++ Programming Course](https://github.com/NelsonBilber/cpp.udemy.advancedcpp) <br/> Udemy Course "Learn Advanced C++ Programming Course" an exclente course by John Purcell 
 
@@ -30,7 +33,7 @@ It's a hard language to learn so it requires a lot of constant practice
 
 ----------------
 
-* [Functional Programming](https://github.com/NelsonBilber/cpp.functional.programming) 
+* [Functional Programming](https://github.com/NelsonBilber/cpp-overview/blob/master/docs/functional.org) 
 
 * [Object Oriented Programming](https://github.com/NelsonBilber/cpp.oop)
 
@@ -47,6 +50,8 @@ It's a hard language to learn so it requires a lot of constant practice
 * [STL Containers and Iterators](https://github.com/NelsonBilber/cpp-overview/blob/master/docs/containers.and.iterators.org)
 
 ---------------- 
+
+* [Multithreading](https://github.com/NelsonBilber/cpp-overview/blob/master/docs/multithreading.org)
 
 * [C++ Resource acquisition is initialization (RAII)](https://github.com/NelsonBilber/cpp.RAII) 
 	
