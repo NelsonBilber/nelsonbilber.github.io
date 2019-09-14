@@ -7,13 +7,31 @@ external-url:
 categories: Languages
 ---
 
-**C++**
+## C++
 
 ---
+
+### Cpp-Overview (Github repository)
 
 It's a hard language to learn so it requires a lot of constant practice. So i'm constantly update a github repository dedicated to C++.
 
 [cpp-overview](https://github.com/NelsonBilber/cpp-overview)
+
+- RAII, Containers, Rule of Three, Five and Zero, Exceptions, Linking, void*, …
+- STL Containers and Iterators
+- Lambdas ( recursive, *this), Concepts, Move semantics, Monads, C++ 17
+- Argument Type Deduction, Explicit Specialization, Variadic Templates, Partial Specialization, Concepts ( C++20)
+- Small example how to use std <functional>
+- Working Queue Model” with Qt, std::future and std::promises
+- How to use Google-tests for unit testing (TDD)
+- Recommendations for libs and tricks during all development cycles
+- Popular C++ libs
+- Web courses to polish C++ code skills
+- Recomended books that covers basic and advanced concepts and best practices
+- Links, blogs, podcast, …
+
+
+#### Main access to popular topics
 
 -----------------
 
