@@ -11,6 +11,23 @@ categories: Languages
 
 ---
 
+[Python Overview](https://github.com/NelsonBilber/python-overview)
+
+This repository aims to explore python programming language. Is available source code about:
+
+* loop
+* modules
+* classes
+* lambdas
+* reflection
+* data structure
+* numpy
+* object oriented
+* newtwork/sockets
+* python bindings
+
+
+**Other Repositories**
 
 * [Python the hard way](https://github.com/NelsonBilber/py.thehardway)
 * [Python with OpenGL](https://github.com/NelsonBilber/py.opengl)
