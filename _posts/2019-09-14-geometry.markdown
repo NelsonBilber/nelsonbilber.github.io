@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Blog posts"
+date:   2019-09-14 10:11:11 +0100
+comments: true
+external-url:
+categories: Geometry
+---
+
+Currently an Work In Progres (WIP) ... the ideia is to explore computational geometry 
+
+[Geometry Computing](https://github.com/NelsonBilber/geometric.computing)
