@@ -31,9 +31,10 @@ It's a hard language to learn so it requires a lot of constant practice. So i'm 
 - Links, blogs, podcast, …
 
 
-#### Main access to popular topics
-
 -----------------
+
+### Direct access to popular topics
+
 
 * [Learn Advanced C++ Programming Course](https://github.com/NelsonBilber/cpp.udemy.advancedcpp) <br/> Udemy Course "Learn Advanced C++ Programming Course" an exclente course by John Purcell 
 
