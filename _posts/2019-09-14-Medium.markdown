@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Blog post"
+date:   2019-09-14 10:11:11 +0100
+comments: true
+external-url:
+categories: medium
+---
+
+Once in a while I wrote some blog posts on medium about technical challenges and project management issues.
+
+### Software Development
+
+[Know your algorithm’s complexity](https://medium.com/@rodrigues.b.nelson/know-your-algorithms-complexity-116da218fd3f)
+
+[“Choosing Wisely !!! ” — C++ Containers and Big-Oh complexity](https://medium.com/@rodrigues.b.nelson/choosing-wisely-c-containers-and-big-oh-complexity-64f9bd1e7e4c)
+
+### Project Management
+
+[System/Software Development Life Cycle (SDLC) into the wild — Part I
+](https://medium.com/@rodrigues.b.nelson/system-development-life-cycle-sdlc-into-the-wild-4633ab7b01e6)
+
+[Research & Development on Software Development Life Cycle (SDLC) — Part II](https://medium.com/@rodrigues.b.nelson/research-development-on-software-development-life-cycle-sdlc-part-ii-65c9b31be473)
